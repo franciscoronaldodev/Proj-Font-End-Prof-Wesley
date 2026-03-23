@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* HEADER */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #0d1b2a;
+    color: white;
+    padding: 15px 30px;
+}
+
+nav a {
+    color: white;
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+/* HERO */
+.hero {
+    text-align: center;
+    padding: 60px;
+    background: #1b263b;
+    color: white;
+}
+
+.hero button {
+    padding: 10px 20px;
+    margin-top: 15px;
+    border: none;
+    background: #e63946;
+    color: white;
+    cursor: pointer;
+}
+
+/* CARDS */
+.cards {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+
+.card {
+    background: #415a77;
+    color: white;
+    padding: 40px;
+    width: 25%;
+    text-align: center;
+    border-radius: 10px;
+}
+
+/* POSTS */
+.posts {
+    padding: 30px;
+    background: #e0e1dd;
+}
+
+.posts ul {
+    list-style: none;
+    padding: 0;
+}
+
+/* SOBRE */
+.sobre {
+    padding: 30px;
+}
+
+/* FOOTER */
+footer {
+    background: #0d1b2a;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
