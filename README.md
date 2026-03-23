@@ -6,3 +6,4 @@ breve descrição sobre o projeto: Será um projeto para falar de tecnologia, co
 Imagem do esboço (wireframe) criado para o projeto
 Print da home-page criada para o projeto 
 
+![alt text](image-1.png)
